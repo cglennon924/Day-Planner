@@ -1,3 +1,9 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+
+
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -55,6 +61,15 @@ textarea{
 .future {
   background-color: #77dd77;
   color: white;
+}
+
+#clock{
+  font-family: 'Orbitron', sans-serif;
+  color: #66ff99;
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .saveBtn {
